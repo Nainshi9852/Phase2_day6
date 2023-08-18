@@ -1,0 +1,8 @@
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe.config
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.pdb
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.SuggestedBindingRedirects.cache
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.exe
+D:\Indeed2\Phase-2\Exercise\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.pdb
